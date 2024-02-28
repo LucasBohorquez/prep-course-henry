@@ -1,2 +1,1 @@
-# prep-course-henry
-Primer repositorio de prep course
+Proyecto del Prep course modulo 2
